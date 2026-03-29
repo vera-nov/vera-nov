@@ -2,10 +2,10 @@
 4th year student at Moscow State University, Faculty of Computational Mathematics and Cybernetics.<br>Research interests: NLP, VLM.
 
 
-## 🌐 socials
+## socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nov.vera27@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/naganai)
 
-## 💻 tech stack
+## tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
