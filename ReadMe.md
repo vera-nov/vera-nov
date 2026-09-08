@@ -1,5 +1,5 @@
 # 🌸 about me
-4th year student at Moscow State University, Faculty of Computational Mathematics and Cybernetics.<br>Research interests: NLP, VLM.
+Moscow State University, Faculty of Computational Mathematics and Cybernetics graduate.<br>Research interests: NLP, VLM.
 
 
 ## socials
