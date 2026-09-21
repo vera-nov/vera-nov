@@ -1,5 +1,5 @@
 # 🌸 about me
-Moscow State University, Faculty of Computational Mathematics and Cybernetics graduate.<br>Research interests: NLP, VLM.
+Moscow State University, Faculty of Computational Mathematics and Cybernetics graduate.<br>Research interests: computer vision, natural language processing, VLM.
 
 
 ## socials
